@@ -1,4 +1,5 @@
 <?php
+
 function acak($panjang)
 {
     $karakter= '123456789';
@@ -11,6 +12,5 @@ function acak($panjang)
 }
 $hasil_1= acak(3);
 echo $hasil_1;
-
 echo $today = date("Y-m-d H:i:s");  
 ?>
